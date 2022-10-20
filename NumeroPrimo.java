@@ -1,5 +1,7 @@
 public class NumeroPrimo {
     public static void main(String[] args) {
-        System.out.println("Hello git hub");
+        for(int inteiro = 1; inteiro <= 31; inteiro++) {
+            System.out.println(inteiro);
+        }
     }
 }
